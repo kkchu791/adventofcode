@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -45,14 +44,3 @@ public class Trebuchet {
     }   
   }
 }
-
-
-// read the file
-// read it line by line
-// iterate through the element
-// we need to grab the digits through two pointers
-// as we iterate, we'll add the digits
-// return the sum
-
-
-// present a design pattern
